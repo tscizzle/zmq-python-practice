@@ -2,7 +2,7 @@
 USAGE:
 `python pub_sub.py` to start the publisher
 `python pub_sub.py subscriber` to start a subscriber, of which there can be
-ultiple
+multiple
 """
 
 
